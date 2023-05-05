@@ -1,0 +1,17 @@
+--insert into user_details(id, birth_Date, name)
+--values(1, current_date(), 'Supriya');
+--
+--insert into user_details(id, birth_Date, name)
+--values(2, current_date(), 'priya');
+--
+--insert into user_details(id, birth_Date, name)
+--values(3, current_date(), 'riya');
+--
+--insert into post(id, description, user_id)
+--values(100, 'Learning JPA', 1);
+--
+--insert into post(id, description, user_id)
+--values(101, 'Learning SpringBoot', 1);
+--
+--insert into post(id, description, user_id)
+--values(102, 'Microservices', 3);
